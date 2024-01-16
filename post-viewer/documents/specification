@@ -1,0 +1,33 @@
+#1 View post;
+#2 Create post;
+#3 Like post;
+#0 Exit
+
+##View post
+#key 0 for exit
+#1 title - content - like
+#comment1
+#comment2
+#comment3
+....
+#2 tile - content - like
+...
+
+##Create post
+#Title
+#Content
+
+##Like post
+#1 title - content - like
+#2 title - content - like
+...
+
+#Key index post for like
+
+##Comment post
+#1 title - content - like
+#2 title - content - like
+...
+
+#Key index post for comment
+#Comment:
